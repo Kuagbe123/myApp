@@ -22,7 +22,7 @@ export default function Login({navigation}) {
           }}
          />
    <Text style={{color: "rgba(0,0,0,0.6)", fontSize: 24}}> Welcome to </Text>
-   <Text style={{color: "black", fontSize: 30, fontWeight: '600'}}> POWER BIKE SHOP  </Text>
+   <Text style={{color: "black", fontSize: 30, fontWeight: '600'}}> AUTOMOBILE SHOP </Text>
    <TouchableOpacity  
      style={{backgroundColor: "#e3e3e3", 
      padding: 10,

@@ -21,7 +21,7 @@ export default function Login({navigation}) {
             transform:[{rotate:"45deg"}],
             marginBottom: 30,
         }}
-        source= {{uri:"https://images.unsplash.com/photo-1634033244119-9dce33e3aedb?ixid=MnwxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHw4fHx8ZW58MHx8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+        source= {{uri:"https://images.unsplash.com/photo-1588117305388-c2631a279f82?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTB8fGtpY2tzfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
           }}
          />
          
@@ -32,7 +32,7 @@ export default function Login({navigation}) {
          paddingBottom:50,
          fontStyle:"BOLD",
          marginBottom: 40,
-         }}> AUTOMOBILE SHOP </Text>
+         }}> EDDIEKAY'S COLLECTION </Text>
         
 
          </View>
